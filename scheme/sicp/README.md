@@ -1,4 +1,4 @@
-I am using DrRacket; see https://racket-lang.org/.
+To work through the [Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sicp/) exercises in the `Wizard Book`, I am using DrRacket; see https://racket-lang.org/, as the IDE and Scheme REPL.
 
 ![DrRacket](images/dr.racket-screenshot.png)
 
